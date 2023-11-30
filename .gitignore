@@ -1,0 +1,11 @@
+.idea
+.env
+venv
+alembic.ini
+bot/db/migrations
+bot/db/saved_exl
+bot/db/__pycache__
+bot/commands/__pycache__
+bot/commands/structures/__pycache__
+bot/middlewares/__pycache__
+bot/__pycache__
